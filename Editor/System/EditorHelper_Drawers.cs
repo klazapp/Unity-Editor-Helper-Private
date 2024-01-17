@@ -6,7 +6,7 @@ using UnityEngine;
 namespace com.Klazapp.Editor
 {
     //TODO: Complete draw property
-    public static partial class CustomEditorHelper
+    public static partial class EditorHelper
     {
         #region Public Access
         [MethodImpl(MethodImplOptions.AggressiveInlining)]

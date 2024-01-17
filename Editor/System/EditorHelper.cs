@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace com.Klazapp.Editor
 {
-    public static partial class CustomEditorHelper
+    public static partial class EditorHelper
     {
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
         private static Vector3 GetFloat3AsVector(this SerializedProperty property)

@@ -5,7 +5,7 @@ namespace com.Klazapp.Editor
 {
     using Event = UnityEngine.Event;
     
-    public static partial class CustomEditorHelper
+    public static partial class EditorHelper
     {
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
         public static bool OnPointerHover()
