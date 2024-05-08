@@ -1,6 +1,6 @@
 {
   "name": "com.klazapp.editor.helper",
-  "displayName": "Klazapp Editor Helper",
+  "displayName": "Unity Editor Helper",
   "version": "1.0.0",
   "unity": "2022.3",
   "description": "This custom editor helper tool development",
