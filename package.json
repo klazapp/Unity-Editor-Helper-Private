@@ -1,6 +1,6 @@
 {
   "name": "com.klazapp.editor.helper",
-  "displayName": "Unity Editor Helper",
+  "displayName": "Unity Editor Helper Private",
   "version": "1.0.0",
   "unity": "2022.3",
   "description": "Enhance your Unity Editor scripting with Klazapp's Editor Helper, a toolkit designed to simplify property manipulation, add custom GUI elements, and handle editor inputs efficiently. Perfect for developers aiming to enhance their editor's functionality and streamline workflows with customizable interfaces and interactive tools.",
